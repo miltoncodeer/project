@@ -1,0 +1,84 @@
+body {
+  background-color: rgb(147, 232, 255);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB3bfJaoee1Zt84ej1UPyhiipFuKzZRtvziw&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 28%;
+  width: 100%;
+}
+
+img {
+  width: 450px;
+  height: 250px;
+}
+
+.name {
+  text-align: center;
+  background-color: white;
+  font-size: xx-large;
+  color: rgb(42, 139, 219);
+}
+
+p.content {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  background-color: rgb(255, 206, 114);
+}
+
+input {
+  margin: 0.1px;
+  width: 150px;
+  display: inline-block;
+}
+
+label {
+  width: 250px;
+  display: inherit;
+}
+
+p {
+  text-align: center;
+}
+
+select {
+  margin: 25px;
+  width: 200px;
+}
+
+p.heading {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  background-color: rgb(99, 226, 231);
+}
+legend {
+  color: black;
+}
+form {
+  text-align: center;
+  border: 15px solid rgb(127, 206, 202);
+}
+.docter {
+  width: 1390;
+  height: 700;
+}
+.btn {
+  text-align: center;
+}
+.note {
+  text-align: center;
+  background-color: rgb(240, 204, 204);
+}
+h1 {
+  color: black;
+  font-size: larger;
+  text-align: center;
+  background-color: aliceblue;
+}
+h2 {
+  color: black;
+  font-size: larger;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+}
